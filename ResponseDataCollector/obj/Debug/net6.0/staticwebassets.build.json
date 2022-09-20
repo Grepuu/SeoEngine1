@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LM6UBPLUuc8cZUFrmqxMmdb/Vd8xdyaKGflDJmrK/6I=",
+  "Source": "ResponseDataCollector",
+  "BasePath": "_content/ResponseDataCollector",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

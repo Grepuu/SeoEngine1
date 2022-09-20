@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0FUzpUEfBAEFWSKB4Q6jPQtQRzcq+qQ+DrppoaPgn0AzUx78BKMR4Y7pJ/rRm7sAb1NhO/68Cm4RzDmWLMejA==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\SeoEngine1\\ResponseDataCollector.ServicesLibrary\\ResponseDataCollector.ServicesLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dawex\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
