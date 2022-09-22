@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "E0FUzpUEfBAEFWSKB4Q6jPQtQRzcq+qQ+DrppoaPgn0AzUx78BKMR4Y7pJ/rRm7sAb1NhO/68Cm4RzDmWLMejA==",
+  "dgSpecHash": "k5ehhAhGoPhIvD2EUJQWWo4P/WLgxM4JKK0Amocx3LL92VMZgco67I2STIJ6HuVzHBmYMtz2DWUvTLfVGGPUeQ==",
   "success": true,
   "projectFilePath": "D:\\C# Projects\\SeoEngine1\\ResponseDataCollector.ServicesLibrary\\ResponseDataCollector.ServicesLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dawex\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+    "C:\\Users\\dawex\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\dawex\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],
   "logs": []
 }

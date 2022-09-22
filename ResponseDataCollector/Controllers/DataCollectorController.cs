@@ -79,5 +79,50 @@ namespace ResponseDataCollector.Controllers
             }
             return BadRequest("url is not valid!");
         }
+
+        [HttpGet("GetRobots")]
+        public IActionResult GetRobotsFile(string url)
+        {
+            if (Uri.TryCreate(url, UriKind.Absolute, out Uri? uri))
+            {
+                var _result = ResponseRobotsTxt.GetRobotsFile(uri).Result;
+                if(!string.IsNullOrEmpty(_result))
+                {
+                    return Ok(_result);
+                }
+                return NotFound();
+            }
+            return BadRequest("url is not valid!");
+        }
+
+        [HttpGet("GetSiteMapContent")]
+        public IActionResult GetSiteMapContent(string url)
+        {
+            if (Uri.TryCreate(url, UriKind.Absolute, out Uri? uri))
+            {
+                var _result = ResponseSiteMap.GetSiteMapContent(uri).Result;
+                if (_result.Any())
+                {
+                    return Ok(_result);
+                }
+                return NotFound();
+            }
+            return BadRequest("url is not valid!");
+        }
+
+        [HttpGet("GetSiteMap")]
+        public IActionResult GetSiteMap(string url)
+        {
+            if (Uri.TryCreate(url, UriKind.Absolute, out Uri? uri))
+            {
+                var _result = ResponseSiteMap.GetSiteMap(uri).Result;
+                if (_result.Any())
+                {
+                    return Ok(_result);
+                }
+                return NotFound();
+            }
+            return BadRequest("url is not valid!");
+        }
     }
 }
