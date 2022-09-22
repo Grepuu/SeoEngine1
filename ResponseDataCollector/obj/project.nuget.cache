@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "B2sxh0hQHf8ryJzDlVWecw3QSMJ2OiK7Seja1wweViVUeS7mEhvH9sdaDH+Rf8rE7LfkagMtGQvcGP3Nd2C5fg==",
+  "dgSpecHash": "SncAESqfhbh1k8xNQN+I41k+XNww74qOuLdKcKCbB0f7mugk5sIjZ25MK8/i7T/BxM9N4HQ4DUUEijos42tH0A==",
   "success": true,
   "projectFilePath": "D:\\C# Projects\\SeoEngine1\\ResponseDataCollector\\ResponseDataCollector.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dawex\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
     "C:\\Users\\dawex\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\dawex\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dawex\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
     "C:\\Users\\dawex\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\dawex\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\dawex\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

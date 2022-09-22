@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mexT5Zi8pYXOc6cmbrUmfA/FJZaXzCvvlVobRMMKRdFLfQyCq6/nQHTchlqPH9K8NjpyYDlavUjR95Tmyvjo6w==",
+  "dgSpecHash": "QjU4/ejSPVBBDsszz1tTQbpzhu81LpT+/a1HkknWL0kAh3hquql9rtKVRxeuYTYTu/Mzyus6CMpaa2p9HvbFaA==",
   "success": true,
   "projectFilePath": "D:\\C# Projects\\SeoEngine1\\ConsoleApplication\\ConsoleApplication.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dawex\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+    "C:\\Users\\dawex\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\dawex\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],
   "logs": []
 }
